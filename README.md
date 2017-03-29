@@ -14,4 +14,4 @@ or clone just one of the submodules if you only plan on working on one subprojec
 git clone --recursive git@github.com:natete/gitswitch-qa.git
 ```
 
-If you clone the entire project you can work with any of the submodule and all the git tasks you perform on a submodule folder will affect the corresponding repository.
+If you clone the entire project you can work with any of the submodule and all the git tasks you perform on a submodule folder will affect the corresponding repository. Just remember the submodules are just a pointer to a given commit, so you should checkout master and pull changes before start working.
