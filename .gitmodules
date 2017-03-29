@@ -1,0 +1,12 @@
+[submodule "gitswitch-web"]
+	path = gitswitch-web
+	url = git@github.com:natete/gitswitch-web.git
+[submodule "gitswitch-mobile"]
+	path = gitswitch-mobile
+	url = git@github.com:natete/gitswitch-mobile.git
+[submodule "gitswitch-drupal"]
+	path = gitswitch-drupal
+	url = git@github.com:natete/gitswitch-drupal.git
+[submodule "gitswitch-qa"]
+	path = gitswitch-qa
+	url = git@github.com:natete/gitswitch-qa.git
